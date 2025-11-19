@@ -21,4 +21,5 @@
 Данные о бытовой химии, продуктах, холодильнике, шкафе, заработной плате, платёжках
 ## UseCase диаграмма
 (![alt](URL))<img width="429" height="401" alt="image" src="https://github.com/user-attachments/assets/c7da1472-0433-4d95-b909-329830b5fbfc" />
+(![alt](URL))<img width="1049" height="491" alt="IMG_20251119_152256_559" src="https://github.com/user-attachments/assets/e738fcce-7105-4580-8775-9beaf9492ebe" />
 
