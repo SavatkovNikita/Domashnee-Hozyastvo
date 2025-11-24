@@ -23,7 +23,7 @@
 (![alt](URL))<img width="548" height="621" alt="юскейс" src="https://github.com/user-attachments/assets/a7ed82f7-3a4f-4dcd-bf99-00105d17f669" />
 ## База данных
 (![alt](URL))<img width="814" height="494" alt="база" src="https://github.com/user-attachments/assets/625d8d11-b54e-4074-a3da-71288b4874f8" />
-## Блок схемы
+## ER диагарамма
 (![alt](URL))<img width="1192" height="550" alt="ди1" src="https://github.com/user-attachments/assets/c71f0b98-0444-485b-92c9-c3e1446522d9" />
 (![alt](URL))<img width="1080" height="684" alt="ди2" src="https://github.com/user-attachments/assets/9465044c-52cd-4965-97e4-1f0ce4033646" />
 (![alt](URL))<img width="1178" height="261" alt="ди3" src="https://github.com/user-attachments/assets/5637fbf4-6b74-42e6-a1f7-b19a2554ffdd" />
