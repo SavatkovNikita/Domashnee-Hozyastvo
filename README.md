@@ -20,7 +20,7 @@
 ## Что нужно для запуска?
 Данные о бытовой химии, продуктах, холодильнике, шкафе, заработной плате, платёжках
 ## UseCase диаграмма
-(![alt](URL))<img width="548" height="621" alt="юскейс" src="https://github.com/user-attachments/assets/a7ed82f7-3a4f-4dcd-bf99-00105d17f669" />
+(![alt](URL))<img width="560" height="549" alt="image" src="https://github.com/user-attachments/assets/fd7de6dc-11da-4531-ab26-1a713b26a800" />
 ## База данных
 (![alt](URL))<img width="514" height="497" alt="image" src="https://github.com/user-attachments/assets/35bc604f-ceb5-406e-80f8-874059522ce9" />
 ## ER диагарамма
