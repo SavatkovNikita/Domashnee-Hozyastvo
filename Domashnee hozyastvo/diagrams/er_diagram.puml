@@ -1,0 +1,53 @@
+@startuml
+
+!define PRIMARY_KEY #orange
+!define FOREIGN_KEY #lightblue
+
+entity Storage {
+  Storage_ID: string
+  Tint: UUID
+  Volume: int
+  User_ID: int
+}
+
+entity "Storage_item" as StorageItem {
+  ID: UUID
+  ID_Storage: UUID
+  Item_ID: UUID
+}
+
+entity Item {
+  ID: UUID
+  Name: string
+  Volume: int
+  Amount: int
+}
+
+entity Receipt {
+  Receipt_ID: int
+  Name: string
+  Score: real
+}
+
+entity User {
+  User_ID: UUID
+  Budget: real
+  Name: string
+  Password: string
+}
+
+entity User_Receipt {
+  User_Receipt_ID: int
+  Status: bool
+  Receipt_ID: int
+  User_ID: int
+}
+
+' Define relationships
+Storage ||--o{ StorageItem : contains
+Item ||--o{ StorageItem : included_in
+User ||--o{ Storage : owns
+User ||--o{ User_Receipt : has
+Receipt ||--o{ User_Receipt : referenced_in
+
+@enduml

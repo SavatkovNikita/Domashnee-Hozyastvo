@@ -1,0 +1,22 @@
+@startuml
+left to right direction
+
+actor Пользователь
+
+rectangle "System" {
+  usecase "Удалить продукт/бытовую химию" as UC1
+  usecase "Добавить продукт/бытовую химию" as UC2
+  usecase "Просмотр списка продуктов и бытовой химии" as UC3
+  usecase "Просмотр бюджета" as UC4
+  usecase "Заплатить платежки" as UC5
+  usecase "Получать зарплату" as UC6
+}
+
+Пользователь --> UC1
+Пользователь --> UC2
+Пользователь --> UC3
+Пользователь --> UC4
+Пользователь --> UC5
+Пользователь --> UC6
+
+@enduml
