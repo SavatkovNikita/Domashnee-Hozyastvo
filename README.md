@@ -21,9 +21,8 @@
 Данные о бытовой химии, продуктах, холодильнике, шкафе, заработной плате, платёжках
 ## UseCase диаграмма
 (![alt](URL))<img width="560" height="549" alt="image" src="https://github.com/user-attachments/assets/fd7de6dc-11da-4531-ab26-1a713b26a800" />
-## База данных
-(![alt](URL))<img width="514" height="497" alt="image" src="https://github.com/user-attachments/assets/35bc604f-ceb5-406e-80f8-874059522ce9" />
 ## ER диагарамма
-(![alt](URL))<img width="1192" height="550" alt="ди1" src="https://github.com/user-attachments/assets/c71f0b98-0444-485b-92c9-c3e1446522d9" />
-(![alt](URL))<img width="1080" height="684" alt="ди2" src="https://github.com/user-attachments/assets/9465044c-52cd-4965-97e4-1f0ce4033646" />
-(![alt](URL))<img width="1178" height="261" alt="ди3" src="https://github.com/user-attachments/assets/5637fbf4-6b74-42e6-a1f7-b19a2554ffdd" />
+(![alt](URL))<img width="514" height="497" alt="image" src="https://github.com/user-attachments/assets/35bc604f-ceb5-406e-80f8-874059522ce9" />
+## Блок схема
+(![alt](URL))<img width="360" height="841" alt="image" src="https://github.com/user-attachments/assets/316e50f5-2b08-4146-86b9-024b8e7dfbef" />
+
