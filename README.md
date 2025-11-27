@@ -23,6 +23,8 @@
 (![alt](URL))<img width="560" height="549" alt="image" src="https://github.com/user-attachments/assets/fd7de6dc-11da-4531-ab26-1a713b26a800" />
 ## ER диагарамма
 (![alt](URL))<img width="514" height="497" alt="image" src="https://github.com/user-attachments/assets/35bc604f-ceb5-406e-80f8-874059522ce9" />
-## Блок схема
-(![alt](URL))<img width="360" height="841" alt="image" src="https://github.com/user-attachments/assets/316e50f5-2b08-4146-86b9-024b8e7dfbef" />
+## Блок схемы
+(![alt](URL))<img width="454" height="318" alt="image" src="https://github.com/user-attachments/assets/6663043c-67af-404f-9a95-1dc9637f3406" />
+(![alt](URL))<img width="394" height="340" alt="image" src="https://github.com/user-attachments/assets/4a4c6f09-38f5-46fc-81f1-5af3c23453fd" />
+(![alt](URL))<img width="318" height="757" alt="image" src="https://github.com/user-attachments/assets/66191ae5-03eb-43cc-9c0e-5521e9bdd932" />
 
