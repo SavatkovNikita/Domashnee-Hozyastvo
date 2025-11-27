@@ -1,0 +1,29 @@
+@startuml
+start
+:Введите зарплату: ;
+:zarplata = float(input());
+:Введите сумму платежки: ;
+:plategka = float(input());
+
+while (Оплата платежа?) is (да)
+  :Введите сумму которую хотите оплатить;
+  :plata = float(input());
+  :zarplata = zarplata - plata;
+  :plategka = plategka - plata;
+  :Платеж оплачен. Долг: {plategka}\nОстаток зарплаты: {zarplata};
+  :Конец операции;
+
+  if (plategka == 0?) then (да)
+    break
+  else (нет)
+    :Заплатить ещё? (да/нет);
+    :another = input().lower();
+    if (another != 'да'?) then (да)
+      break
+    else (нет)
+    endif
+  endif
+endwhile
+
+stop
+@enduml
