@@ -22,7 +22,7 @@
 ## UseCase диаграмма
 (![alt](URL))<img width="560" height="549" alt="image" src="https://github.com/user-attachments/assets/fd7de6dc-11da-4531-ab26-1a713b26a800" />
 ## ER диагарамма
-(![alt](URL))<img width="514" height="497" alt="image" src="https://github.com/user-attachments/assets/35bc604f-ceb5-406e-80f8-874059522ce9" />
+(![alt](URL))<img width="1256" height="522" alt="image" src="https://github.com/user-attachments/assets/85b112da-22c6-4ffa-8efd-79e9e26e2fb6" />
 ## Блок схемы
 (![alt](URL))<img width="454" height="318" alt="image" src="https://github.com/user-attachments/assets/6663043c-67af-404f-9a95-1dc9637f3406" />
 (![alt](URL))<img width="394" height="340" alt="image" src="https://github.com/user-attachments/assets/4a4c6f09-38f5-46fc-81f1-5af3c23453fd" />
